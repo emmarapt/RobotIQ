@@ -1,0 +1,6 @@
+gym==0.10.11
+openai==0.28.0
+SpeechRecognition==3.9.0
+spinup==0.1
+spinup.egg==info
+tweepy==4.14.0
