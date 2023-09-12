@@ -1,0 +1,35 @@
+Here are the functions you can use to control the Turtlebot 3 waffle pi with the OpenManipulator-X robot.
+
+aw.navigation_to_target(X, Y) - navigates the robot to a target specified by two coordinates X, Y. Assume that Z axis does not exist.
+aw.focus_on_kitchen() -  focuses the robot to the kitchen.
+aw.pick() - controls the manipulator's arm and gripper to pick any object.
+aw.leave_kitchen() - leaves the kitchen.
+aw.place() - controls the manipulator's arm and gripper to place any object.
+aw.get_position(target name) - returns the X, Y coordinates of a target
+
+navigation_to_target() and get_position() are the only functions that take arguments as input. The rest are not!
+
+The following targets and objects are in the scene, and you are to refer to them using these exact names:
+
+Targets:
+Human, Kitchen
+Always use the aw.get_position() to get the position of a target.
+
+Objects:
+Bottle of water
+Always assume that the location of the objects is known. Do not use aw.get_position() for the objects.
+
+The robot is the object that you are controlling and the 'Human' is me.
+None of the targets and objects except for the human and the robot itself are movable.
+
+If you are uncertain about something, you can ask me a clarification question, as long as you specifically identify it by saying "Question".
+
+Here is an example scenario that illustrates how you can ask clarification questions. Let us assume a scene contains a bottle of water.
+
+Me: I am thirsty.
+You: Question - Do you want me to bring you the bottle of water?
+Me: Yes.
+
+Lastly, explain in detail the steps and the function that you would choose to do something that I am asking you.
+
+Are you ready?

@@ -1,0 +1,145 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="100">
+            <item index="0" class="java.lang.String" itemvalue="numpy" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="moveit_python" />
+            <item index="3" class="java.lang.String" itemvalue="rosboost_cfg" />
+            <item index="4" class="java.lang.String" itemvalue="roslz4" />
+            <item index="5" class="java.lang.String" itemvalue="rosgraph" />
+            <item index="6" class="java.lang.String" itemvalue="tf2_py" />
+            <item index="7" class="java.lang.String" itemvalue="rostest" />
+            <item index="8" class="java.lang.String" itemvalue="jsk-recognition-utils" />
+            <item index="9" class="java.lang.String" itemvalue="rosunit" />
+            <item index="10" class="java.lang.String" itemvalue="rospy" />
+            <item index="11" class="java.lang.String" itemvalue="srdfdom" />
+            <item index="12" class="java.lang.String" itemvalue="jsk_data" />
+            <item index="13" class="java.lang.String" itemvalue="tf_conversions" />
+            <item index="14" class="java.lang.String" itemvalue="rosmsg" />
+            <item index="15" class="java.lang.String" itemvalue="rqt_gui_py" />
+            <item index="16" class="java.lang.String" itemvalue="tf2_geometry_msgs" />
+            <item index="17" class="java.lang.String" itemvalue="roslib" />
+            <item index="18" class="java.lang.String" itemvalue="gazebo_plugins" />
+            <item index="19" class="java.lang.String" itemvalue="rqt_bag" />
+            <item index="20" class="java.lang.String" itemvalue="laser_geometry" />
+            <item index="21" class="java.lang.String" itemvalue="turtlebot3_teleop" />
+            <item index="22" class="java.lang.String" itemvalue="tf2_kdl" />
+            <item index="23" class="java.lang.String" itemvalue="base_local_planner" />
+            <item index="24" class="java.lang.String" itemvalue="joint_state_publisher" />
+            <item index="25" class="java.lang.String" itemvalue="geodesy" />
+            <item index="26" class="java.lang.String" itemvalue="diagnostic_common_diagnostics" />
+            <item index="27" class="java.lang.String" itemvalue="rviz" />
+            <item index="28" class="java.lang.String" itemvalue="catkin" />
+            <item index="29" class="java.lang.String" itemvalue="roswtf" />
+            <item index="30" class="java.lang.String" itemvalue="topic_tools" />
+            <item index="31" class="java.lang.String" itemvalue="pr2_controller_manager" />
+            <item index="32" class="java.lang.String" itemvalue="gennodejs" />
+            <item index="33" class="java.lang.String" itemvalue="openni2_launch" />
+            <item index="34" class="java.lang.String" itemvalue="tf2_ros" />
+            <item index="35" class="java.lang.String" itemvalue="bhand_controller" />
+            <item index="36" class="java.lang.String" itemvalue="actionlib" />
+            <item index="37" class="java.lang.String" itemvalue="roslaunch" />
+            <item index="38" class="java.lang.String" itemvalue="resource_retriever" />
+            <item index="39" class="java.lang.String" itemvalue="urdfdom_py" />
+            <item index="40" class="java.lang.String" itemvalue="smach" />
+            <item index="41" class="java.lang.String" itemvalue="jsk_rviz_plugins" />
+            <item index="42" class="java.lang.String" itemvalue="tf" />
+            <item index="43" class="java.lang.String" itemvalue="sensor_msgs" />
+            <item index="44" class="java.lang.String" itemvalue="qt_gui" />
+            <item index="45" class="java.lang.String" itemvalue="genpy" />
+            <item index="46" class="java.lang.String" itemvalue="rqt_py_common" />
+            <item index="47" class="java.lang.String" itemvalue="bondpy" />
+            <item index="48" class="java.lang.String" itemvalue="cob-script-server" />
+            <item index="49" class="java.lang.String" itemvalue="controller_manager_msgs" />
+            <item index="50" class="java.lang.String" itemvalue="gazebo_ros" />
+            <item index="51" class="java.lang.String" itemvalue="cob_cartesian_controller" />
+            <item index="52" class="java.lang.String" itemvalue="rosserial_python" />
+            <item index="53" class="java.lang.String" itemvalue="rqt_plot" />
+            <item index="54" class="java.lang.String" itemvalue="dynamic_reconfigure" />
+            <item index="55" class="java.lang.String" itemvalue="pluginlib" />
+            <item index="56" class="java.lang.String" itemvalue="seed_smartactuator_sdk" />
+            <item index="57" class="java.lang.String" itemvalue="turtlebot3_example" />
+            <item index="58" class="java.lang.String" itemvalue="xacro" />
+            <item index="59" class="java.lang.String" itemvalue="rosnode" />
+            <item index="60" class="java.lang.String" itemvalue="unique_id" />
+            <item index="61" class="java.lang.String" itemvalue="rosbag" />
+            <item index="62" class="java.lang.String" itemvalue="message_filters" />
+            <item index="63" class="java.lang.String" itemvalue="image_geometry" />
+            <item index="64" class="java.lang.String" itemvalue="rosmaster" />
+            <item index="65" class="java.lang.String" itemvalue="roslint" />
+            <item index="66" class="java.lang.String" itemvalue="cv_bridge" />
+            <item index="67" class="java.lang.String" itemvalue="diagnostic_analysis" />
+            <item index="68" class="java.lang.String" itemvalue="rosmake" />
+            <item index="69" class="java.lang.String" itemvalue="smach_ros" />
+            <item index="70" class="java.lang.String" itemvalue="genmsg" />
+            <item index="71" class="java.lang.String" itemvalue="mavros" />
+            <item index="72" class="java.lang.String" itemvalue="rqt_joint_trajectory_controller" />
+            <item index="73" class="java.lang.String" itemvalue="roscreate" />
+            <item index="74" class="java.lang.String" itemvalue="cob_twist_controller" />
+            <item index="75" class="java.lang.String" itemvalue="angles" />
+            <item index="76" class="java.lang.String" itemvalue="camera_calibration_parsers" />
+            <item index="77" class="java.lang.String" itemvalue="interactive-markers" />
+            <item index="78" class="java.lang.String" itemvalue="rosclean" />
+            <item index="79" class="java.lang.String" itemvalue="rosservice" />
+            <item index="80" class="java.lang.String" itemvalue="gencpp" />
+            <item index="81" class="java.lang.String" itemvalue="genlisp" />
+            <item index="82" class="java.lang.String" itemvalue="dynamixel_sdk" />
+            <item index="83" class="java.lang.String" itemvalue="rosparam" />
+            <item index="84" class="java.lang.String" itemvalue="diagnostic_updater" />
+            <item index="85" class="java.lang.String" itemvalue="moveit_ros_planning_interface" />
+            <item index="86" class="java.lang.String" itemvalue="moveit_commander" />
+            <item index="87" class="java.lang.String" itemvalue="qt_gui_py_common" />
+            <item index="88" class="java.lang.String" itemvalue="jsk_topic_tools" />
+            <item index="89" class="java.lang.String" itemvalue="tf2_sensor_msgs" />
+            <item index="90" class="java.lang.String" itemvalue="sound-play" />
+            <item index="91" class="java.lang.String" itemvalue="moveit_ros_visualization" />
+            <item index="92" class="java.lang.String" itemvalue="controller_manager_tests" />
+            <item index="93" class="java.lang.String" itemvalue="rostopic" />
+            <item index="94" class="java.lang.String" itemvalue="geneus" />
+            <item index="95" class="java.lang.String" itemvalue="smclib" />
+            <item index="96" class="java.lang.String" itemvalue="rqt_gui" />
+            <item index="97" class="java.lang.String" itemvalue="python_qt_binding" />
+            <item index="98" class="java.lang.String" itemvalue="controller_manager" />
+            <item index="99" class="java.lang.String" itemvalue="typing-extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredRoles">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UseEllipsisInPropertyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
