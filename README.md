@@ -5,7 +5,8 @@
 
 <div align="center">
 
-   <h3 align="center">Title of the paper.</h3>
+   <h3 align="center">An open-source, easy-to-use, and universally adaptable
+robotic library suite for any robot.</h3>
   <a href="">
     <img src="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Turtlebot3.png" alt="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Turtlebot3.png" width="300" height="">
   </a>
@@ -208,8 +209,8 @@ In the following videos,  we explore the groundbreaking fusion of cutting-edge t
  <div align="center">
   <!--<a href="https://youtu.be/RrMleHW5YRw"><img src="https://markdown-videos-api.jorgenkh.no/youtube/RrMleHW5YRw" alt="ChatBot"></a>-->
   <!--<a href="https://youtu.be/z3siFzY07w8"><img src="https://markdown-videos-api.jorgenkh.no/youtube/z3siFzY07w8" alt="ChatBot"></a>-->
-  <a href="https://youtu.be/RrMleHW5YRw"><img src="https://img.youtube.com/vi/RrMleHW5YRw/hqdefault.jpg" alt="ChatBot"></a>
-  <a href="https://youtu.be/z3siFzY07w8"><img src="https://img.youtube.com/vi/z3siFzY07w8/hqdefault.jpg" alt="VoiceBot"></a>
+  <a href="https://youtu.be/RrMleHW5YRw"><img src="https://img.youtube.com/vi/RrMleHW5YRw/hqdefault.jpg" alt="ChatBot" width="400" height="" ></a>
+  <a href="https://youtu.be/z3siFzY07w8"><img src="https://img.youtube.com/vi/z3siFzY07w8/hqdefault.jpg" alt="VoiceBot" width="400" height=""></a>
   </div>
 
 
