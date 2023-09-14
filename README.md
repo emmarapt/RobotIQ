@@ -73,13 +73,14 @@ This project aims to enhance the capabilities of mobile robots by equipping them
 **Step 1. Install Ubuntu and ROS**
 
 **Step 2: Setup catkin_ws for ROS with python 3.6**
+> For ROS melodic & Kinetic you can refer to the following [guide](https://medium.com/@beta_b0t/how-to-setup-ros-with-python-3-44a69ca36674).
 
 **Step 3. Clone the following repository:**
  ```sh
 cd catkin_ws/src
 git clone https://github.com/emmarapt/turtlebot3_home_service_challenge.git
    ```
->Note: For more information, please refer to the following [e-manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
+> Note: To install additional packages, please refer to the following [e-manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/).
 >
 ##### Build catkin with Python3.6
 ```
@@ -161,12 +162,11 @@ Open a terminal, go to Terminal->Preferences, and enable mnemonics.
 <!-- ############################################### -->
 ## Mobile robot navigation using deep reinforcement learning
 
-This repository contains an OpenAI reinforcement learning setup for the Turtlebot3 in **Python 3.6**  allowing the use of  [Spinning Up](https://spinningup.openai.com/en/latest/) / [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/) / [Baselines](https://github.com/openai/baselines) deep reinforcement learning algorithms in the robot navigation training.
+This repository also contains an OpenAI reinforcement learning setup for the Turtlebot3 in **Python 3.6**  allowing the use of  [Spinning Up](https://spinningup.openai.com/en/latest/) / [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/) / [Baselines](https://github.com/openai/baselines) deep reinforcement learning algorithms in the robot navigation training.
 
 
 1. Install an OpenAI gym extension for using Gazebo known as [gym-gazebo](https://github.com/erlerobot/gym-gazebo) [**Optional**]
-3. Setup catkin_ws for ROS Kinetic with [python 3.6](https://medium.com/@inderpreetsinghchhabra/using-python3-with-ros-kinetic-2488354efece) 
-4. Install at least one: [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html), [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/), [Baselines](https://github.com/openai/baselines) in python3.6 virtual env
+2. Install at least one: [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html), [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/), [Baselines](https://github.com/openai/baselines) in python3.6 virtual env
 
 
 There are two ways of starting training and evaluation:
@@ -207,26 +207,17 @@ Here is a video demonstration of how ChatGPT initializes this project using ROS,
   </a>
 </div>  
 
-
-Here is a video demonstration of utilizing the ChatBot:  
+In the following videos,  we explore the groundbreaking fusion of cutting-edge technology and robotics - ChatGPT using both the ChatBot and the VoiceBot. ChatGPT seamlessly translates natural language through voice commands into robotics objectives, empowering an assistive robot designed to aid the elderly in a realistic virtual environment.
 
 
  <div align="center">
   <!--<a href="https://youtu.be/RrMleHW5YRw"><img src="https://markdown-videos-api.jorgenkh.no/youtube/RrMleHW5YRw" alt="ChatBot"></a>-->
   <!--<a href="https://youtu.be/z3siFzY07w8"><img src="https://markdown-videos-api.jorgenkh.no/youtube/z3siFzY07w8" alt="ChatBot"></a>-->
   <a href="https://youtu.be/RrMleHW5YRw"><img src="https://img.youtube.com/vi/RrMleHW5YRw/hqdefault.jpg" alt="ChatBot"></a>
-  <!--<a href="https://youtu.be/z3siFzY07w8"><img src="https://img.youtube.com/vi/z3siFzY07w8/hqdefault.jpg" alt="VoiceBot"></a>-->
-  </div>
-
-Here is a video demonstration of utilizing the VoiceBot:  
-
-
- <div align="center">
-  <!--<a href="https://youtu.be/RrMleHW5YRw"><img src="https://markdown-videos-api.jorgenkh.no/youtube/RrMleHW5YRw" alt="ChatBot"></a>-->
-  <!--<a href="https://youtu.be/z3siFzY07w8"><img src="https://markdown-videos-api.jorgenkh.no/youtube/z3siFzY07w8" alt="VoiceBot"></a>-->
-  <!--<a href="https://youtu.be/RrMleHW5YRw"><img src="https://img.youtube.com/vi/RrMleHW5YRw/hqdefault.jpg" alt="ChatBot"></a>-->
   <a href="https://youtu.be/z3siFzY07w8"><img src="https://img.youtube.com/vi/z3siFzY07w8/hqdefault.jpg" alt="VoiceBot"></a>
   </div>
+
+
 
 <!-- ############################################### -->
 <!-- Real Life Experiments -->
@@ -239,21 +230,24 @@ To validate the efficiency of ASPiDA ChatGPT we evaluate the custom robotic libr
   </a>
 </div>
 
-**Here is a video demonstration:**
+Watch the Turtlebot3 Waffle Pi with OpenManipulator-X Showcase Precision: From Picking to Placing using voice commands!
+
 <div align="center">
   <a href="https://youtu.be/WgfPbgZK8ic"><img src="https://img.youtube.com/vi/WgfPbgZK8ic/hqdefault.jpg" alt="Watch a Turtlebot3 real-life experiment"></a>
 </div>
 
+In this video, Turtlebot3 adeptly executes a precision-driven task—from picking to placing a bottle of watter in a specific target location. The intricacy of the operation becomes even more impressive as the entire process is orchestrated within an augmented reality (AR) environment, utilizing distinct AR markers for accurate positioning. Watch as the Turtlebot3 identifies, approaches, and seamlessly grasps the water bottle, perfectly centered within an AR markers
+
 <!-- ############################################### -->
 <!-- Qualitative Results -->
-## Qualitative Results
-To qualitatively analyze the robot's performance during pick and place tasks, trajectory plots of the gripper's joints were generated using the rqt tool \cite{rqt}. These plots offer a clear visualization of the robot's gripper joint movements and the accuracy of the executed trajectories. 
+<!-- ## Qualitative Results
+ To qualitatively analyze the robot's performance during pick and place tasks, trajectory plots of the gripper's joints were generated using the rqt tool. These plots offer a clear visualization of the robot's gripper joint movements and the accuracy of the executed trajectories. 
 
 <div align="center">
   <a href="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Qualitative%20gripper%20results.png">
     <img src="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Qualitative%20gripper%20results.png" alt="" width="600" height="">
   </a>
-</div>
+</div> -->
 
 
 <!-- ############################################### -->
