@@ -19,7 +19,7 @@
     <a href="https://github.com/emmarapt/ASPiDA_ChatGPT"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/emmarapt/Adaptive_Coverage_Path_Planning/blob/main/gif/demo.gif">View Demo</a>
+    <a href="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/gifs/project_gif.gif">View Demo</a>
     ·
     <a href="https://github.com/emmarapt/ASPiDA_ChatGPT/issues">Report Bug</a>
     ·
