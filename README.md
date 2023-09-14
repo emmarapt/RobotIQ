@@ -7,7 +7,7 @@
 
    <h3 align="center">Title of the paper.</h3>
   <a href="">
-    <img src="" alt="" width="" height="">
+    <img src="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Turtlebot3.png" alt="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Turtlebot3.png" width="400" height="">
   </a>
 
 
