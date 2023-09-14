@@ -36,17 +36,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#demo">Demo</a></li>
-    <li><a href="#qualitative-results">Qualitative Results</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+     <li><a href="#installation">Installation</a></li>
+    <li><a href="#how-to-run">How to Run</a></li>
+     <li><a href="#mobile-robot-navigation-using-deep-reinforcement-learning">Mobile robot navigation using deep reinforcement learning</a></li>
+    <li><a href="#video-demos">Video Demos</a></li>
+    <li><a href="#real-life-experiments">Real-life Experiments</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
