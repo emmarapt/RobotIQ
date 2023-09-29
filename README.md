@@ -39,7 +39,7 @@ robotic library suite for any robot.</h3>
     </li>
     <li><a href="#prerequisites">Prerequisites</a></li>
      <li><a href="#installation">Installation</a></li>
-    <li><a href="#how-to-run">How to Run</a></li>
+    <li><a href="#how-to-run">How to run</a></li>
      <li><a href="#mobile-robot-navigation-using-deep-reinforcement-learning">Mobile robot navigation using deep reinforcement learning</a></li>
     <li><a href="#video-demos">Video Demos</a></li>
     <li><a href="#real-life-experiments">Real-life Experiments</a></li>
@@ -55,7 +55,7 @@ robotic library suite for any robot.</h3>
 ## About The Project
 <div align="center">
   <a href="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Aspida_arch.png">
-    <img src="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Aspida_arch.png" alt="" width="600" height="">
+    <img src="https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Aspida_arch.png" alt="" width="750" height="">
   </a>
 </div>
 
