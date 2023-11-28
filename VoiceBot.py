@@ -2,7 +2,7 @@
 import openai
 import re
 import argparse
-from aspida_wrapper import *
+from robotiq_wrapper import *
 import os
 import json
 import speech_recognition as sr
