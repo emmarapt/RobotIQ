@@ -5,6 +5,10 @@
 
 <div align="center">
 
+<a href="">
+    <img src="https://github.com/emmarapt/RobotIQ/blob/main/images/RobotIQ_logo.png" alt="https://github.com/emmarapt/RobotIQ/blob/main/images/RobotIQ_logo.png" width="300" height="">
+  </a>
+
    <h3 align="center">An open-source, easy-to-use, and universally adaptable
 robotic library suite for any robot.</h3>
   <a href="">
