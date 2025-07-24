@@ -281,7 +281,22 @@ This research has been co-financed by the European Union and Greek national fund
 <!-- REFERENCES -->
 ## Cite As:
 
-(Not published yet)
+
+[[Link](https://arxiv.org/abs/2502.12862)]
+
+ ```bibtex
+@misc{raptis2025robotiqempoweringmobilerobots,
+      title={RobotIQ: Empowering Mobile Robots with Human-Level Planning for Real-World Execution}, 
+      author={Emmanuel K. Raptis and Athanasios Ch. Kapoutsis and Elias B. Kosmatopoulos},
+      year={2025},
+      eprint={2502.12862},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2502.12862}, 
+}
+  ```
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: https://github.com/emmarapt/ASPiDA_ChatGPT/blob/main/images/Aspida_arch.png
