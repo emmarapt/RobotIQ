@@ -282,7 +282,7 @@ This research has been co-financed by the European Union and Greek national fund
 ## Cite As:
 
 
-[[Link](https://arxiv.org/abs/2502.12862)]
+[[Link](https://journals.sagepub.com/doi/full/10.1177/17298806261423235)]
 
  ```bibtex
 @article{raptis2026robotiq,
