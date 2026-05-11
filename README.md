@@ -285,14 +285,15 @@ This research has been co-financed by the European Union and Greek national fund
 [[Link](https://arxiv.org/abs/2502.12862)]
 
  ```bibtex
-@misc{raptis2025robotiqempoweringmobilerobots,
-      title={RobotIQ: Empowering Mobile Robots with Human-Level Planning for Real-World Execution}, 
-      author={Emmanuel K. Raptis and Athanasios Ch. Kapoutsis and Elias B. Kosmatopoulos},
-      year={2025},
-      eprint={2502.12862},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2502.12862}, 
+@article{raptis2026robotiq,
+  title={Robotiq: empowering mobile robots with human-level planning for real-world execution},
+  author={Raptis, Emmanuel K and Kapoutsis, Athanasios Ch and Kosmatopoulos, Elias B},
+  journal={International Journal of Advanced Robotic Systems},
+  volume={23},
+  number={3},
+  pages={17298806261423235},
+  year={2026},
+  publisher={SAGE Publications Sage UK: London, England}
 }
   ```
 
